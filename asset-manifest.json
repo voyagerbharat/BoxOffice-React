@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BoxOffice-React/static/css/main.50a236d3.chunk.css",
+    "main.css": "/BoxOffice-React/static/css/main.a23cd868.chunk.css",
     "main.js": "/BoxOffice-React/static/js/main.5a1dfd58.chunk.js",
     "main.js.map": "/BoxOffice-React/static/js/main.5a1dfd58.chunk.js.map",
     "runtime-main.js": "/BoxOffice-React/static/js/runtime-main.da50d3a9.js",
@@ -12,13 +12,13 @@
     "index.html": "/BoxOffice-React/index.html",
     "service-worker.js": "/BoxOffice-React/service-worker.js",
     "service-worker.js.map": "/BoxOffice-React/service-worker.js.map",
-    "static/css/main.50a236d3.chunk.css.map": "/BoxOffice-React/static/css/main.50a236d3.chunk.css.map",
+    "static/css/main.a23cd868.chunk.css.map": "/BoxOffice-React/static/css/main.a23cd868.chunk.css.map",
     "static/js/2.5f6de4d0.chunk.js.LICENSE.txt": "/BoxOffice-React/static/js/2.5f6de4d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.da50d3a9.js",
     "static/js/2.5f6de4d0.chunk.js",
-    "static/css/main.50a236d3.chunk.css",
+    "static/css/main.a23cd868.chunk.css",
     "static/js/main.5a1dfd58.chunk.js"
   ]
 }
