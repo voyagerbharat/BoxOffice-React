@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
-export const NavList = styled.ul `
+export const NavList = styled.ul`
   display: flex;
   justify-content: center;
   list-style: none;
@@ -9,13 +9,12 @@ export const NavList = styled.ul `
   padding: 0;
 `;
 
-export const LinkStyled = styled(Link)
-`
+export const LinkStyled = styled(Link)`
   margin: 0 10px;
   padding: 3px 15px;
   position: relative;
   text-decoration: none;
-  color: ${({ theme }) => theme.mainColors.gray};
+  color: ${({ theme }) => theme.mainColors.white};
   &.active {
     color: ${({ theme }) => theme.mainColors.blue};
     &:after {
